@@ -11,7 +11,7 @@ List lightSpellList = [
     {"char": "き", "spell": "ki"},
     {"char": "く", "spell": "ku"},
     {"char": "け", "spell": "ke"},
-    {"char": "こ", "spell": "o"}
+    {"char": "こ", "spell": "ko"}
   ],
   [
     {"char": "さ", "spell": "sa"},
@@ -85,6 +85,7 @@ List lightSpellLeft = [
 ];
 
 List lightSpellHead = [
+  {'text': '行\\段'},
   {'text': 'あ段'},
   {'text': 'い段'},
   {'text': 'う段'},
